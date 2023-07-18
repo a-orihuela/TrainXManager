@@ -1,0 +1,26 @@
+[
+  {
+    "Rol": "Administrator",
+    "ShowFoodProgam": true,
+    "ShowTrainingProgam": true,
+    "ShowSocialNetwork": true,
+    "ShowChallenges": true,
+    "ShowAdvancedGraphics": true
+  },
+  {
+    "Rol": "BasicUser",
+    "ShowFoodProgam": false,
+    "ShowTrainingProgam": true,
+    "ShowSocialNetwork": false,
+    "ShowChallenges": true,
+    "ShowAdvancedGraphics": false
+  },
+  {
+    "Rol": "ProfessionalUser",
+    "ShowFoodProgam": true,
+    "ShowTrainingProgam": true,
+    "ShowSocialNetwork": true,
+    "ShowChallenges": true,
+    "ShowAdvancedGraphics": true
+  }
+]
